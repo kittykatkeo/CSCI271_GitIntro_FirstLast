@@ -4,3 +4,4 @@ This is my very first repository on GitHub!
 **Author:** Emily Keo
 **Date Created:** August 29th, 2026
 **Purpose:** Practicing GitHub basics, including creating a repository and a README file.
+This repo is to help me track my progress in programming.
