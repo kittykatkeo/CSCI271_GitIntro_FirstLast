@@ -1,6 +1,6 @@
 // CSCI 27X - GitHub Upload Practice
-// Name: YOUR NAME
-// Section: YOUR SECTION
+// Name: EMILY KEO
+// Section: Problem Solving/Programming 1
 
 #include <iostream>
 using namespace std;
